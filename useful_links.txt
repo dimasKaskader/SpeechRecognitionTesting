@@ -1,0 +1,7 @@
+WER in HTML = https://github.com/imalic3/python-word-error-rate
+Kaldi and Sphinx models = http://goofy.zamia.org/zamia-speech/asr-models/ https://github.com/gooofy/zamia-speech
+Kaldi RU = https://github.com/Serghsem/hse-kaldi-ru-asr
+Kaldi for Python = https://github.com/gooofy/py-kaldi-asr
+Facebook = https://github.com/facebookresearch/wav2letter
+Better Kaldi wrapper = https://github.com/pykaldi/pykaldi
+Как будто модель для facebook = https://devhub.io/repos/facebookresearch-wav2letter
