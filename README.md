@@ -12,4 +12,4 @@ Used projects:
 7. [PocketSphinx Python Wrapper](https://github.com/bambocher/pocketsphinx-python)
 8. [SpeechRecognition for Python](https://github.com/Uberi/speech_recognition)
 
-The results are partly presented in the following [paper](http://ceur-ws.org/Vol-2298/paper13.pdf). 
+Some of the results are presented in the following [paper](http://ceur-ws.org/Vol-2298/paper13.pdf). 
